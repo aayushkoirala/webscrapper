@@ -27,11 +27,10 @@ wd.implicitly_wait(3)
 print('1')
 html = wd.page_source
 print('2')
-df = pd.read_html(html)
-
-finaldf = pd.concat(df, axis=1, join='inner').sort_index()
-finaldf.to_csv("test1.csv", index = False)
-
+dataf = pd.read_html(html)
+df = pd.concat(dataf)
+#print(df)
+df.to_csv('text.csv')
 #df.to_csv('df.csv')
 #print(df)
 #with open("df.txt", "w") as file:
