@@ -13,19 +13,21 @@ url = 'https://mystudentrecord.ucmerced.edu/pls/PROD/xhwschedule.p_selectsubject
 
 wd = webdriver.Chrome('chromedriver', options=options)
 wd.get(url)
-status = wd.find_element_by_xpath("/html/body/div[3]/form/table/tbody/tr[11]/td[1]/input").is_selected()
-print(status)
+#status = wd.find_element_by_xpath("/html/body/div[3]/form/table/tbody/tr[11]/td[1]/input").is_selected()
+#print(status)
 
 wd.find_element_by_xpath("/html/body/div[3]/form/table/tbody/tr[11]/td[1]/input").click()
 
-status = wd.find_element_by_xpath("/html/body/div[3]/form/table/tbody/tr[11]/td[1]/input").is_selected()
-print(status)
+#status = wd.find_element_by_xpath("/html/body/div[3]/form/table/tbody/tr[11]/td[1]/input").is_selected()
+#print(status)
 
 wd.find_element_by_xpath("/html/body/div[3]/form/input").click()
 wd.implicitly_wait(3)
 html = wd.page_source
-with open("t.txt", "w") as file:
-  file.write(html)
+df = pd.read_html(html)
+#print(df)
+with open("df.txt", "w") as file:
+  file.write(df)
 #print(html)
 
 
