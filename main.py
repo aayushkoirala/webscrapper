@@ -24,7 +24,9 @@ print(status)
 wd.find_element_by_xpath("/html/body/div[3]/form/input").click()
 wd.implicitly_wait(3)
 html = wd.page_source
-file1=open("t.txt","w")
-file1.write(html)
-file1.close()
+with open("t.txt", "w") as file:
+  file.write(html)
 #print(html)
+
+
+
