@@ -28,20 +28,23 @@ wd.find_element_by_xpath("/html/body/div[3]/form/table/tbody/tr[11]/td[1]/input"
 wd.find_element_by_xpath("/html/body/div[3]/form/input").click()
 #wd.implicitly_wait(3)
 #print('1')
-html = wd.page_source
+
 #print('2')
 
 #with open("html.txt", "w") as file:
   #file.write(html)
 
-m_df = pd.read_html(html)
-df = pd.concat(m_df)
+html = wd.page_source
+df = pd.concat(pd.read_html(html))
 
 rdf = df[['Course #', 'Seats Avail']]
 df_print = rdf[rdf['Course #'] == 'ANTH-003-06D']
 
 for index, row in df_print.iterrows():
-  print('The course ' + row['Course #'] + ' is currently ' + row['Seats Avail']+'.')
+  if row['Seats Avail'] == 'Closed':
+    print('The course ' + row['Course #'] + ' is currently ' + row['Seats Avail']+'.')
+  else:
+    print('The course ' + row['Course #'] + ' currently has ' + row['Seats Avail']+' spot(s) left.')
 
 #df.to_csv('c_df.csv')
 #print(timeit.default_timer() - start_time)
