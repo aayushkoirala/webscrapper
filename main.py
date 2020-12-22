@@ -1,8 +1,8 @@
 from selenium import webdriver
 import pandas as pd
-import timeit
+#import timeit
 
-start_time = timeit.default_timer()
+#start_time = timeit.default_timer()
 #from bs4 import BeautifulSoup
 
 options = webdriver.ChromeOptions()
@@ -36,12 +36,13 @@ html = wd.page_source
 
 m_df = pd.read_html(html)
 df = pd.concat(m_df)
+
+rdf = df[['Course #', 'Seats Avail']]
+final = rdf[rdf['Course #'] == 'ANTH-003-06D']
+
+
 #df.to_csv('c_df.csv')
-print(timeit.default_timer() - start_time)
+#print(timeit.default_timer() - start_time)
 
 #print(df)
 #print(html)
-
-
-
-
