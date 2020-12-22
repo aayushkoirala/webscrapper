@@ -10,14 +10,12 @@ options.add_argument('--disable-dev-shm-usage')
 
 
 
-url = 'https://mystudentrecord.ucmerced.edu/pls/PROD/xhwschedule.p_selectsubject'
+url = 'https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VI)'
 
 wd = webdriver.Chrome('chromedriver', options=options)
 wd.get(url)
+term ='body > div.pagebodydiv > form > table > tbody > tr:nth-child(7) > td:nth-child(1) > input[type=radio]'
+button1 = wd.find_element_by_css_selector(term)
+button1.click()
 
 
-wd.implicitly_wait(10)
-html = wd.page_source
-df = pd.read_html(html)
-
-print(df[0])
