@@ -23,11 +23,9 @@ status = wd.find_element_by_xpath("/html/body/div[3]/form/table/tbody/tr[11]/td[
 print(status)
 
 wd.find_element_by_xpath("/html/body/div[3]/form/input").click()
-wd.implicitly_wait(10)
+wd.switch_to_window(wd.window_handles[0])
 html = wd.page_source
-df = wd.read_html(html)
-
-print(df[0])
+print(html)
 
 
 
