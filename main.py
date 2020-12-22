@@ -38,8 +38,10 @@ m_df = pd.read_html(html)
 df = pd.concat(m_df)
 
 rdf = df[['Course #', 'Seats Avail']]
-final = rdf[rdf['Course #'] == 'ANTH-003-06D']
+df_print = rdf[rdf['Course #'] == 'ANTH-003-06D']
 
+for index, row in df_print.iterrows():
+  print('The course ' + row['Course #'] + ' is currently ' + row['Seats Avail']+'.')
 
 #df.to_csv('c_df.csv')
 #print(timeit.default_timer() - start_time)
