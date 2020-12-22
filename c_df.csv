@@ -344,16 +344,16 @@
 53,,,,24.0,LAB,REMOTE ONLY,13265.0,CHEM-002-31L,General Chemistry I,W,Staff,24.0,Closed,19-JAN 07-MAY,12:00-2:50pm,0.0
 54,,,,15.0,DISC,REMOTE ONLY,16751.0,CHEM-002-32D,General Chemistry I,M,Staff,24.0,9,19-JAN 07-MAY,8:30-9:20am,0.0
 55,,,,15.0,LAB,REMOTE ONLY,16752.0,CHEM-002-32L,General Chemistry I,W,Staff,24.0,9,19-JAN 07-MAY,7:30-10:20am,0.0
-56,,,,120.0,LECT,REMOTE ONLY,13245.0,CHEM-008-01,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,T,"Perrotta, Raffaele",125.0,5,19-JAN 07-MAY,3:30-5:20pm,3.0
-57,,,,,LECT,REMOTE ONLY,,,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,R,,,,19-JAN 07-MAY,4:30-5:20pm,
+56,,,,120.0,LECT,REMOTE ONLY,13245.0,CHEM-008-01,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,R,"Perrotta, Raffaele",125.0,5,19-JAN 07-MAY,4:30-5:20pm,3.0
+57,,,,,LECT,REMOTE ONLY,,,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,T,,,,19-JAN 07-MAY,3:30-5:20pm,
 58,,,,,EXAM,REMOTE ONLY,,,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,T,,,,11-MAY 11-MAY,6:30-9:30pm,
 59,,,,25.0,DISC,REMOTE ONLY,15113.0,CHEM-008-02D,Prin of Organic Chem,M,Staff,25.0,Closed,19-JAN 07-MAY,4:30-5:20pm,0.0
 60,,,,25.0,DISC,REMOTE ONLY,15114.0,CHEM-008-03D,Prin of Organic Chem,M,Staff,25.0,Closed,19-JAN 07-MAY,5:30-6:20pm,0.0
 61,,,,20.0,DISC,REMOTE ONLY,15115.0,CHEM-008-04D,Prin of Organic Chem,M,Staff,25.0,5,19-JAN 07-MAY,6:30-7:20pm,0.0
 62,,,,25.0,DISC,REMOTE ONLY,15116.0,CHEM-008-05D,Prin of Organic Chem,W,Staff,25.0,Closed,19-JAN 07-MAY,4:30-5:20pm,0.0
 63,,,,25.0,DISC,REMOTE ONLY,15117.0,CHEM-008-06D,Prin of Organic Chem,W,Staff,25.0,Closed,19-JAN 07-MAY,5:30-6:20pm,0.0
-64,,,,125.0,LECT,REMOTE ONLY,15118.0,CHEM-008-20,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,T,"Leslie, Michelle",125.0,Closed,19-JAN 07-MAY,1:30-2:20pm,3.0
-65,,,,,LECT,REMOTE ONLY,,,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,R,,,,19-JAN 07-MAY,1:30-3:20pm,
+64,,,,125.0,LECT,REMOTE ONLY,15118.0,CHEM-008-20,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,R,"Leslie, Michelle",125.0,Closed,19-JAN 07-MAY,1:30-3:20pm,3.0
+65,,,,,LECT,REMOTE ONLY,,,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,T,,,,19-JAN 07-MAY,1:30-2:20pm,
 66,,,,,EXAM,REMOTE ONLY,,,Prin of Organic ChemMust Also Register for a Corresponding Discussion Section,T,,,,11-MAY 11-MAY,6:30-9:30pm,
 67,,,,25.0,DISC,REMOTE ONLY,15119.0,CHEM-008-21D,Prin of Organic Chem,W,Staff,25.0,Closed,19-JAN 07-MAY,6:30-7:20pm,0.0
 68,,,,25.0,DISC,REMOTE ONLY,15120.0,CHEM-008-22D,Prin of Organic Chem,W,Staff,25.0,Closed,19-JAN 07-MAY,7:30-8:20pm,0.0
@@ -409,18 +409,18 @@
 118,,,,,EXAM,REMOTE ONLY,,,Honors Gen Chem IIMust Also Register for a Corresponding Discussion and Lab,S,,,,08-MAY 08-MAY,8:00-11:00am,
 119,,,,9.0,DISC,REMOTE ONLY,14109.0,CHEM-010H-02D,Honors Gen Chem II,T,Staff,20.0,11,19-JAN 07-MAY,8:30-9:20am,0.0
 120,,,,9.0,LAB,REMOTE ONLY,14110.0,CHEM-010H-02L,Honors Gen Chem II,R,Staff,20.0,11,19-JAN 07-MAY,8:30-11:20am,0.0
-121,,,,150.0,LECT,REMOTE ONLY,10081.0,CHEM-100-01,Organic Synth and MechanismMust Also Register for a Corresponding Discussion Section,TR,"Leslie, Michelle",168.0,18,19-JAN 07-MAY,9:00-10:15am,4.0
+121,,,,149.0,LECT,REMOTE ONLY,10081.0,CHEM-100-01,Organic Synth and MechanismMust Also Register for a Corresponding Discussion Section,TR,"Leslie, Michelle",168.0,19,19-JAN 07-MAY,9:00-10:15am,4.0
 122,,,,,EXAM,REMOTE ONLY,,,Organic Synth and MechanismMust Also Register for a Corresponding Discussion Section,W,,,,12-MAY 12-MAY,3:00-6:00pm,
 123,,,,23.0,DISC,REMOTE ONLY,15997.0,CHEM-100-02D,Organic Synth and Mechanism,M,Staff,24.0,1,19-JAN 07-MAY,10:30-11:20am,0.0
 124,,,,24.0,DISC,REMOTE ONLY,15998.0,CHEM-100-03D,Organic Synth and Mechanism,M,Staff,24.0,Closed,19-JAN 07-MAY,11:30-12:20pm,0.0
 125,,,,22.0,DISC,REMOTE ONLY,15999.0,CHEM-100-04D,Organic Synth and Mechanism,M,Staff,24.0,2,19-JAN 07-MAY,3:30-4:20pm,0.0
 126,,,,22.0,DISC,REMOTE ONLY,16000.0,CHEM-100-05D,Organic Synth and Mechanism,M,Staff,24.0,2,19-JAN 07-MAY,4:30-5:20pm,0.0
 127,,,,23.0,DISC,REMOTE ONLY,16001.0,CHEM-100-06D,Organic Synth and Mechanism,T,Staff,24.0,1,19-JAN 07-MAY,3:30-4:20pm,0.0
-128,,,,22.0,DISC,REMOTE ONLY,16002.0,CHEM-100-07D,Organic Synth and Mechanism,T,Staff,24.0,2,19-JAN 07-MAY,4:30-5:20pm,0.0
+128,,,,21.0,DISC,REMOTE ONLY,16002.0,CHEM-100-07D,Organic Synth and Mechanism,T,Staff,24.0,3,19-JAN 07-MAY,4:30-5:20pm,0.0
 129,,,,14.0,DISC,REMOTE ONLY,16624.0,CHEM-100-08D,Organic Synth and Mechanism,W,Staff,24.0,10,19-JAN 07-MAY,11:30-12:20pm,0.0
 130,,,,23.0,LAB,REMOTE ONLY,10082.0,CHEM-100L-01,Organic Chemistry Laboratory,W,"Leslie, Michelle",24.0,1,19-JAN 07-MAY,2:00-4:50pm,1.0
 131,,,,24.0,LAB,REMOTE ONLY,10083.0,CHEM-100L-02,Organic Chemistry Laboratory,W,"Leslie, Michelle",24.0,Closed,19-JAN 07-MAY,5:30-8:20pm,1.0
-132,,,,24.0,LAB,REMOTE ONLY,10084.0,CHEM-100L-03,Organic Chemistry Laboratory,R,"Leslie, Michelle",24.0,Closed,19-JAN 07-MAY,10:30-1:20pm,1.0
+132,,,,23.0,LAB,REMOTE ONLY,10084.0,CHEM-100L-03,Organic Chemistry Laboratory,R,"Leslie, Michelle",24.0,1,19-JAN 07-MAY,10:30-1:20pm,1.0
 133,,,,23.0,LAB,REMOTE ONLY,10085.0,CHEM-100L-04,Organic Chemistry Laboratory,R,"Leslie, Michelle",24.0,1,19-JAN 07-MAY,2:00-4:50pm,1.0
 134,,,,21.0,LAB,REMOTE ONLY,10393.0,CHEM-100L-05,Organic Chemistry Laboratory,R,"Leslie, Michelle",24.0,3,19-JAN 07-MAY,5:30-8:20pm,1.0
 135,,,,24.0,LAB,REMOTE ONLY,10509.0,CHEM-100L-06,Organic Chemistry Laboratory,W,"Leslie, Michelle",24.0,Closed,19-JAN 07-MAY,10:30-1:20pm,1.0
@@ -1668,7 +1668,7 @@
 66,,,,2.0,SEM,REMOTE ONLY,16443.0,POLI-251-01,Political Cognition,W,"Hibbing, Matt",12.0,10,19-JAN 07-MAY,1:30-4:15pm,4.0
 67,,,,,EXAM,REMOTE ONLY,,,Political Cognition,F,,,,14-MAY 14-MAY,8:00-11:00am,
 68,,,,2.0,SEM,REMOTE ONLY,16444.0,POLI-269-01,Political Geography,R,"Sands, Melissa",12.0,10,19-JAN 07-MAY,9:00-11:45am,4.0
-0,,,,166.0,LECT,REMOTE ONLY,10176.0,PSY-001-01,Introduction to Psychology,TR,"Mello, Daniel",295.0,129,19-JAN 07-MAY,9:30-11:20am,4.0
+0,,,,167.0,LECT,REMOTE ONLY,10176.0,PSY-001-01,Introduction to Psychology,TR,"Mello, Daniel",295.0,128,19-JAN 07-MAY,9:30-11:20am,4.0
 1,,,,,EXAM,REMOTE ONLY,,,Introduction to Psychology,M,,,,10-MAY 10-MAY,11:30-2:30pm,
 2,,,,99.0,LECT,REMOTE ONLY,10430.0,PSY-001-02,Introduction to Psychology,MW,"Avilla, Ross",295.0,196,19-JAN 07-MAY,1:30-3:20pm,4.0
 3,,,,,EXAM,REMOTE ONLY,,,Introduction to Psychology,S,,,,08-MAY 08-MAY,11:30-2:30pm,

@@ -5254,8 +5254,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <td class="dddefault" rowspan="3"><small>Prin of Organic Chem<br>Must Also Register for a Corresponding Discussion Section</small></td>
 <td class="dddefault"><p class="leftaligntext"><small>3</small></p></td>
 <td class="dddefault"><p class="leftaligntext"><small>LECT</small></p></td>
-<td class="dddefault"><small>T</small></td>
-<td nowrap="" class="dddefault"><small>3:30-5:20pm</small></td>
+<td class="dddefault"><small>R</small></td>
+<td nowrap="" class="dddefault"><small>4:30-5:20pm</small></td>
 <td nowrap="" class="dddefault"><small>REMOTE ONLY</small></td>
 <td nowrap="" class="dddefault"><small>19-JAN 07-MAY</small></td>
 <td class="dddefault"><small>Perrotta, Raffaele</small></td>
@@ -5268,8 +5268,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <td class="dddefault">&nbsp;</td>
 <td class="dddefault">&nbsp;</td>
 <td class="dddefault"><p class="leftaligntext"><small>LECT</small></p></td>
-<td class="dddefault"><small>R</small></td>
-<td nowrap="" class="dddefault"><small>4:30-5:20pm</small></td>
+<td class="dddefault"><small>T</small></td>
+<td nowrap="" class="dddefault"><small>3:30-5:20pm</small></td>
 <td nowrap="" class="dddefault"><small>REMOTE ONLY</small></td>
 <td nowrap="" class="dddefault"><small>19-JAN 07-MAY</small></td>
 <td class="dddefault">&nbsp;</td>
@@ -5372,8 +5372,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <td class="dddefault" rowspan="3"><small>Prin of Organic Chem<br>Must Also Register for a Corresponding Discussion Section</small></td>
 <td class="dddefault"><p class="leftaligntext"><small>3</small></p></td>
 <td class="dddefault"><p class="leftaligntext"><small>LECT</small></p></td>
-<td class="dddefault"><small>T</small></td>
-<td nowrap="" class="dddefault"><small>1:30-2:20pm</small></td>
+<td class="dddefault"><small>R</small></td>
+<td nowrap="" class="dddefault"><small>1:30-3:20pm</small></td>
 <td nowrap="" class="dddefault"><small>REMOTE ONLY</small></td>
 <td nowrap="" class="dddefault"><small>19-JAN 07-MAY</small></td>
 <td class="dddefault"><small>Leslie, Michelle</small></td>
@@ -5386,8 +5386,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <td class="dddefault">&nbsp;</td>
 <td class="dddefault">&nbsp;</td>
 <td class="dddefault"><p class="leftaligntext"><small>LECT</small></p></td>
-<td class="dddefault"><small>R</small></td>
-<td nowrap="" class="dddefault"><small>1:30-3:20pm</small></td>
+<td class="dddefault"><small>T</small></td>
+<td nowrap="" class="dddefault"><small>1:30-2:20pm</small></td>
 <td nowrap="" class="dddefault"><small>REMOTE ONLY</small></td>
 <td nowrap="" class="dddefault"><small>19-JAN 07-MAY</small></td>
 <td class="dddefault">&nbsp;</td>
@@ -6226,8 +6226,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <td nowrap="" class="dddefault"><small>19-JAN 07-MAY</small></td>
 <td class="dddefault"><small>Leslie, Michelle</small></td>
 <td class="dddefault"><p class="rightaligntext"><small>168</small></p></td>
-<td class="dddefault"><p class="rightaligntext"><small>150</small></p></td>
-<td class="dddefault"><p class="rightaligntext"><small>18</small></p></td>
+<td class="dddefault"><p class="rightaligntext"><small>149</small></p></td>
+<td class="dddefault"><p class="rightaligntext"><small>19</small></p></td>
 </tr>
 <tr bgcolor="#FFFFFF">
 <td class="dddefault">&nbsp;</td>
@@ -6330,8 +6330,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <td nowrap="" class="dddefault"><small>19-JAN 07-MAY</small></td>
 <td class="dddefault"><small>Staff</small></td>
 <td class="dddefault"><p class="rightaligntext"><small>24</small></p></td>
-<td class="dddefault"><p class="rightaligntext"><small>22</small></p></td>
-<td class="dddefault"><p class="rightaligntext"><small>2</small></p></td>
+<td class="dddefault"><p class="rightaligntext"><small>21</small></p></td>
+<td class="dddefault"><p class="rightaligntext"><small>3</small></p></td>
 </tr>
 <tr bgcolor="#DDDDDD">
 <td nowrap="" class="dddefault"><p class="leftaligntext"><small><a href="xhwschedule.P_ViewCrnDetail?subjcode=CHEM&amp;crsenumb=100&amp;validterm=202110&amp;crn=16624">16624</a></small></p></td>
@@ -6390,8 +6390,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <td nowrap="" class="dddefault"><small>19-JAN 07-MAY</small></td>
 <td class="dddefault"><small>Leslie, Michelle</small></td>
 <td class="dddefault"><p class="rightaligntext"><small>24</small></p></td>
-<td class="dddefault"><p class="rightaligntext"><small>24</small></p></td>
-<td class="dddefault"><p class="rightaligntext"><small>Closed</small></p></td>
+<td class="dddefault"><p class="rightaligntext"><small>23</small></p></td>
+<td class="dddefault"><p class="rightaligntext"><small>1</small></p></td>
 </tr>
 <tr bgcolor="#DDDDDD">
 <td nowrap="" class="dddefault"><p class="leftaligntext"><small><a href="xhwschedule.P_ViewCrnDetail?subjcode=CHEM&amp;crsenumb=100L&amp;validterm=202110&amp;crn=10085">10085</a></small></p></td>
@@ -25367,8 +25367,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <td nowrap="" class="dddefault"><small>19-JAN 07-MAY</small></td>
 <td class="dddefault"><small>Mello, Daniel</small></td>
 <td class="dddefault"><p class="rightaligntext"><small>295</small></p></td>
-<td class="dddefault"><p class="rightaligntext"><small>166</small></p></td>
-<td class="dddefault"><p class="rightaligntext"><small>129</small></p></td>
+<td class="dddefault"><p class="rightaligntext"><small>167</small></p></td>
+<td class="dddefault"><p class="rightaligntext"><small>128</small></p></td>
 </tr>
 <tr bgcolor="#DDDDDD">
 <td class="dddefault">&nbsp;</td>
